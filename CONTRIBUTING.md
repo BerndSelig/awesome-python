@@ -1,3 +1,5 @@
+Bitte sende ein EMail an alle !
+
 # Contributing
 
 Your contributions are always welcome!
